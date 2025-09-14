@@ -13,9 +13,7 @@ Write a program with the C++ STL library to calculate the addition and multiplic
 $3x^3 - 5x + 7$
 
 2 2 4 0
-$$
-2x^2 + 4
-$$
+$2x^2 + 4$
 
 輸出範例
 輸入：
