@@ -9,18 +9,18 @@ Write a program with the C++ STL library to calculate the addition and multiplic
 3. 兩個多項式的相乘結果
 
 輸入格式
-3 3 -5 1 7 0
+3 3 -5 1 7 0  
 $3x^3 - 5x + 7$
 
-2 2 4 0
+2 2 4 0  
 $2x^2 + 4$
 
-輸出範例
-輸入：
-poly1 = 3 3 -5 1 7 0
-poly2 = 2 2 4 0
-輸出：
-Polynomial 1: 3x^3 - 5x + 7
-Polynomial 2: 2x^2 + 4
-Sum: 3x^3 + 2x^2 - 5x + 11
-Product: 6x^5 - 10x^3 + 14x^2 - 20x + 28
+輸出範例  
+輸入：  
+poly1 = 3 3 -5 1 7 0  
+poly2 = 2 2 4 0  
+輸出：  
+Polynomial 1: 3x^3 - 5x + 7  
+Polynomial 2: 2x^2 + 4  
+Sum: 3x^3 + 2x^2 - 5x + 11  
+Product: 6x^5 - 10x^3 + 14x^2 - 20x + 28  
