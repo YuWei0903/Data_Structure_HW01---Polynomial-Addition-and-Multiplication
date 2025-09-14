@@ -1,0 +1,3 @@
+﻿  Data_Structure_HW02.cpp
+Data_Structure_HW02.obj : error LNK2005: main 已在 Data_Structure_HW01.obj 中定義過了
+D:\Work\CSIE_Course\Data_Structure\Data_Structure_HW01\x64\Debug\Data_Structure_HW01.exe : fatal error LNK1169: 找到有一或多個已定義的符號
