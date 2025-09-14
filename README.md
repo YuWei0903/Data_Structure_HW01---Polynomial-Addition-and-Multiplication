@@ -10,9 +10,7 @@ Write a program with the C++ STL library to calculate the addition and multiplic
 
 輸入格式
 3 3 -5 1 7 0
-$$
-3x^3 - 5x + 7
-$$
+$3x^3 - 5x + 7$
 
 2 2 4 0
 $$
