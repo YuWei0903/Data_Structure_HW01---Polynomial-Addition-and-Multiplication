@@ -1,5 +1,5 @@
 # Data_Structure_HW01---Polynomial-Addition-and-Multiplication
-Use C++ to implement a data structure program.
+Use C++ to implement a data structure program.  
 Write a program with the C++ STL library to calculate the addition and multiplication of two polynomials.
 
 本專案使用 C++ 與 STL 實作多項式的 相加 與 相乘。
